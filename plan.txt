@@ -1,0 +1,12 @@
+write hi to the screen
+
+push 25
+push 4 
+mult
+duplicate
+push 5
+add 
+ouput
+push 4
+Add
+output
